@@ -11,13 +11,12 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Devraj Naik**,I'm a Computer science undergraduate from PESU. Passoniate about the latest techs and developement
+Hi! This is **Devraj Naik**, a Computer science undergraduate from PES University. I'm Passoniate about the latest techs and developement
 
 **I work on:**
 * 🛠️ Software Development
-* 🧵 Systems & Network Programming
 * 🖥️ AI and Machine Learning
-* 📱 Full‑stack & Mobile engineering
+* 📱 Full‑stack & App dev
 * 🤖 Robotics and Digital Twins
 ---
 ## 🛠️ Tech Stack
