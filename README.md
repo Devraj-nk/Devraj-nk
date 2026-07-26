@@ -23,9 +23,8 @@ Hi! I'm **Devraj Naik**, I'm a Computer science undergraduate from PESU. Passion
 
 **I work on:**
 * 🛠️ Software Development
-* 🧵 Systems & Network Programming
 * 🖥️ AI and Machine Learning
-* 📱 Full‑stack & Mobile engineering
+* 📱 Full‑stack & App dev
 * 🤖 Robotics and Digital Twins
 ---
 ## 🛠️ Tech Stack
