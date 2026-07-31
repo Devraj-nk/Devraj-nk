@@ -57,11 +57,13 @@ Hi! I'm **Devraj Naik**, I'm a Computer science undergraduate from PESU. Passion
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devraj-nk&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&v=1)
+<!-- Default, Light, Radical, Tokyo Night, Dracula, Nord, Gruvbox, Catppuccin, Ocean, Sunset, Forest, Midnight, Night Owl, Solarized, Ayu, Rose Pine, Kanagawa, Material Palenight. -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devraj-nk&theme=chartreuse-dark&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800)
+![Top Languages](https://ghstats.dev/api/langs?username=Devraj-nk&theme=chartreuse-dark&hide_border=true&&layout=donut)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Devraj-nk&theme=chartreuse-dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Devraj-nk&theme=chartreuse-dark&hide_border=true)
+
+![GitHub Stats](https://ghstats.dev/api/card?username=Devraj-nk&theme=chartreuse-dark&hide_border=true&count_private=true&show_icons=true&include_all_commits=true)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Devraj-nk&theme=chartreuse-dark&hide_border=true&area=true)
 
