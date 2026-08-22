@@ -10,6 +10,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-brightgreen?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://portfolio-eight-olive-42.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/devraj-naik-1b3453376/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devrajnaik1222/)
+[![Mail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devrajnaik1020@gmail.com)
 
 </td>
 </tr>
@@ -18,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Devraj Naik**, I'm a Computer science undergraduate from PESU. Passionate about the latest techs and development.
+Hi! I'm **Devraj Naik**, I'm a Computer Science undergraduate from PESU. Passionate about the latest techs and development.
 
 **I work on:**
 * 🛠️ Software Development
@@ -53,6 +54,36 @@ Hi! I'm **Devraj Naik**, I'm a Computer science undergraduate from PESU. Passion
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
+
+## Works
+
+<h4>⚒️
+  <a href="https://github.com/Devraj-nk/Task-Forge">Task-Forge</a>
+  <small>- Project management platform helping teams plan work, tasks with dependencies, and sprints</small>
+</h4>
+
+<h4>🚕
+  <a href="https://github.com/Devraj-nk/Meta_Mobility">Meta Mobility</a>
+  <small>- An Ola/Uber aggregator app with a recommendation feature.</small>
+</h4>
+
+<h4>🗿
+  <a href="https://github.com/chethans2005/messhy-ai">Messhy AI</a>
+  <small>- Prompt-based AI 3D mesh generator with live rendering.</small>
+</h4>
+
+<h4>🔗
+  <a href="https://github.com/Devraj-nk/LinkPilot">LinkPilot</a>
+  <small>- A Link shortener with QR code generation and analytics.</small>
+</h4>
+
+<h4>🌐
+  <a href="https://github.com/ChaitraLG77/servicelens">ServiceLens</a>
+  <small>- A microservice monitoring tool. Includes health, Config and Root Cause Analysis.</small>
+</h4>
+
+
+---
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -63,7 +94,7 @@ Hi! I'm **Devraj Naik**, I'm a Computer science undergraduate from PESU. Passion
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Devraj-nk&theme=chartreuse-dark&hide_border=true)
 
-![GitHub Stats](https://ghstats.dev/api/card?username=Devraj-nk&theme=chartreuse-dark&hide_border=true&count_private=true&show_icons=true&include_all_commits=true)
+![GitHub Stats](https://ghstats.dev/api/card?username=Devraj-nk&theme=chartreuse-dark&hide_border=true&count_private=true&show_icons=true&include_all_commits=true&text_bold=true)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Devraj-nk&theme=chartreuse-dark&hide_border=true&area=true)
 
