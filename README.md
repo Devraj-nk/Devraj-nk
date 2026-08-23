@@ -35,6 +35,9 @@ Hi! I'm **Devraj Naik**, I'm a Computer Science undergraduate from PESU. Passion
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
 
 ### Web
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -45,6 +48,9 @@ Hi! I'm **Devraj Naik**, I'm a Computer Science undergraduate from PESU. Passion
 ![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -52,10 +58,17 @@ Hi! I'm **Devraj Naik**, I'm a Computer Science undergraduate from PESU. Passion
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
 
 ---
 
-## Works
+## 🏋️ Works
 
 <h4>⚒️
   <a href="https://github.com/Devraj-nk/Task-Forge">Task-Forge</a>
@@ -69,7 +82,7 @@ Hi! I'm **Devraj Naik**, I'm a Computer Science undergraduate from PESU. Passion
 
 <h4>🗿
   <a href="https://github.com/chethans2005/messhy-ai">Messhy AI</a>
-  <small>- Prompt-based AI 3D mesh generator with live rendering.</small>
+  <small>- Prompt-based 3D mesh generator with live rendering.</small>
 </h4>
 
 <h4>🔗
@@ -82,6 +95,15 @@ Hi! I'm **Devraj Naik**, I'm a Computer Science undergraduate from PESU. Passion
   <small>- A microservice monitoring tool. Includes health, Config and Root Cause Analysis.</small>
 </h4>
 
+<h4>⚙️
+  <a href="https://github.com/Devraj-nk/MUFS">Union FS</a>
+  <small>- A mini Union file system with Layer stacking, CoW, Whiteout files hiding and POSIX operations.</small>
+</h4>
+
+<h4>🫀
+  <a href="https://github.com/Devraj-nk/Surgical_risk_modelling">Hearto-Meter</a>
+  <small>- A fullstack lightweight 3D “digital twin” of a heart responding to a surgical simulation in real-time.</small>
+</h4>
 
 ---
 ## 📊 GitHub Stats
@@ -92,7 +114,7 @@ Hi! I'm **Devraj Naik**, I'm a Computer Science undergraduate from PESU. Passion
 
 ![Top Languages](https://ghstats.dev/api/langs?username=Devraj-nk&theme=chartreuse-dark&hide_border=true&&layout=donut)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Devraj-nk&theme=chartreuse-dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Devraj-nk&theme=chartreuse-dark&hide_border=true)
 
 ![GitHub Stats](https://ghstats.dev/api/card?username=Devraj-nk&theme=chartreuse-dark&hide_border=true&count_private=true&show_icons=true&include_all_commits=true&text_bold=true)
 
